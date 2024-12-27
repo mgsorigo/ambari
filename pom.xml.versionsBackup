@@ -26,7 +26,7 @@
   <artifactId>ambari</artifactId>
   <packaging>pom</packaging>
   <name>Ambari Main</name>
-  <version>2.7.9.0.1</version>
+  <version>${revision}</version>
   <description>Ambari</description>
   <url>https://ambari.apache.org/</url>
   <scm>
